@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[theaijournal.co](https://theaijournal.co/2026/05/grok-4-3-benchmarks-agentic-tasks-2026/)",
+    "[Moneycontrol.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS3ZTMklnZmhoNlFmclA4UFVXcm5kMXctMnhTOFdJWGJweWUyRlBBenFUZVI2YVVKR3hwMFZLLUt6X1JJYzlCZXctN1ZBMWVEaXd2Sm5hc05IOWtNT3M3M3NubFRSQVhPdXItU1FmNjZUVTE4bmhFdU5IekoxdlJ3SUpIbEtQME1SdFVpbXRCTVlmMUU5UVQ1NU1BZS1Tb0otN0xpLWxCZkppTUFoYkxpV1h3dUNzbDRnd2FTR2ZlOThTcFpDODIwbTRwMm9SenMtRG8zclJ2LWJtSU9IZDZ6eGowNmd0WU9uRWQ1emlfUlFzQdIB9wFBVV95cUxPZ1FBS3BBRzlVOE56bmhEWDZpNTlSeHRiZFh5aUt4WDk1NkVCQ3FTRkpicERlMGJEREQ5UjBYSU1PNGdFSEp0ZV9xSnlNVVU0ZTVlcVg3OHF3dnVJN2hBVEFDYUs0LW1kajZnMHFiS1JqUDllaDV0VUd0dUh2MU05UmZVbV93VjlKdDlndm5IRS1ZcGotckxDYlFLZzRXUFlueTdrOUdQTlFVX09xSUJKX3FqTmtFQjVZZ2xING1GczE3OU80VklkR3c3bVR0SFZuU1ctY2tlLXcyOWpDMTNWTk9ZV0JjSUNwQ2FFVHpfSlJUMGhTNTM0)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)"
+  ],
+  "design_plan": "rng=42; AIDA: attention(hero benchmark vs workflow), interest(compare), desire(cache advantage), action(CTA); hero max-width 1120px 2\u20133 lines; bento grid uses grid-auto-flow:dense; label sweep includes Folk, Orchids, Siri, ChatGPT, Gemini, Grok; button contrast checked on paper/ink",
+  "generated_at": "2026-07-04T03:35:34.389679+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair comparison of Super and Grok for people evaluating agentic AI. Grok 4.3 shows strong agentic benchmarks and configurable reasoning, while Super is purpose\u2011built for repeated computer\u2011use workflows with a reusable computer-use cache that compounds efficiency over time."
+}
